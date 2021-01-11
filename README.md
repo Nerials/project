@@ -1,2 +1,2 @@
 # project
-# a book
+# the book
